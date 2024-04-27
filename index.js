@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["Слухає Spotify","Кайфує поки адміни не в мережі"];
 
 
 let currentIndex = 0;
